@@ -1,0 +1,8 @@
+.custom-carousel{
+    height: 400px;
+    align-items: center;
+}
+
+.col>img{
+    height: 370px;
+}
